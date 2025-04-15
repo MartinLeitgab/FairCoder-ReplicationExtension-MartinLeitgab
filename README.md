@@ -1,12 +1,5 @@
-# FairCoder
-FairCoder: Evaluating Social Bias of LLMs in Code Generation
+# FairCoder Replication and Extension
+This is a fork of the replication and extension project with a group at AI-Plans.com at https://github.com/AI-Plans/FairCoder, itself a fork from the original https://github.com/YongkDu/FairCoder, paper Link: https://arxiv.org/abs/2501.05396
 
-Paper Link: https://arxiv.org/abs/2501.05396
+More information to follow.
 
-<img src="./demo.png" width="500px"></img>
-
-
-
-The files `code_job.py`, `code_edu.py`, and `code_med.py` are for function implementation, while code_test.py is used for test case generation.
-
-The files `get_info_code.py` and `get_info_testcase.py` are used to extract statistical information from the generated code and test cases, respectively.
